@@ -1,0 +1,8 @@
+print("ONLY TYPE ONE WORD, NOT A SENTENCE!!")
+name = input("What is your name? - ")
+adjective = input("What is your finest character type? - ")
+verb = input("What do you like doing? - ")
+place = input("What is any place that you would like to go to? - ")
+food = input("What is your favourite food? - ")
+vehicle = input("What type of transport do you like to take? - ")
+print(name + " is a very " + adjective + " person to be around. They love to " + verb + " in " + place + ". Their favourite food is " + food + " which they eat in a " + vehicle + ".")
